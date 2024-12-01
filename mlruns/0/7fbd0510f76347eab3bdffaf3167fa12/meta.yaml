@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7fbd0510f76347eab3bdffaf3167fa12/artifacts
+end_time: 1732979652446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fbd0510f76347eab3bdffaf3167fa12
+run_name: capable-turtle-516
+run_uuid: 7fbd0510f76347eab3bdffaf3167fa12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732979646370
+status: 4
+tags: []
+user_id: sivak

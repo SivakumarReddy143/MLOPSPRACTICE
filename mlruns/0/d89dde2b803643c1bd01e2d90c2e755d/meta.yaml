@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d89dde2b803643c1bd01e2d90c2e755d/artifacts
+end_time: 1733032150130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d89dde2b803643c1bd01e2d90c2e755d
+run_name: rumbling-ant-684
+run_uuid: d89dde2b803643c1bd01e2d90c2e755d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733032144595
+status: 3
+tags: []
+user_id: sivak

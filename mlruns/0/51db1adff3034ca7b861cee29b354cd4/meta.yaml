@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/51db1adff3034ca7b861cee29b354cd4/artifacts
+end_time: 1733032751848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51db1adff3034ca7b861cee29b354cd4
+run_name: tasteful-chimp-830
+run_uuid: 51db1adff3034ca7b861cee29b354cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733032749049
+status: 3
+tags: []
+user_id: sivak
