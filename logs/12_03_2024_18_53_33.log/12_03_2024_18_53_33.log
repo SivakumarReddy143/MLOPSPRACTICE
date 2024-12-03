@@ -1,6 +1,0 @@
-[ 2024-12-03 18:53:39,254 ] 161 INFO NumExpr defaulting to 12 threads.
-[ 2024-12-03 18:53:45,682 ] 1026 INFO HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
-[ 2024-12-03 18:53:45,685 ] 107 INFO Accessing as mshivakumarreddy78
-[ 2024-12-03 18:53:46,545 ] 1026 INFO HTTP Request: GET https://dagshub.com/api/v1/repos/mshivakumarreddy78/MLOPSPRACTICE "HTTP/1.1 200 OK"
-[ 2024-12-03 18:53:46,552 ] 107 INFO Initialized MLflow to track repo "mshivakumarreddy78/MLOPSPRACTICE"
-[ 2024-12-03 18:53:46,552 ] 107 INFO Repository mshivakumarreddy78/MLOPSPRACTICE initialized!
