@@ -1,0 +1,6 @@
+[ 2024-12-01 21:48:49,820 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-01 21:48:49,825 ] 107 INFO Accessing as mshivakumarreddy78
+[ 2024-12-01 21:48:50,600 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/repos/mshivakumarreddy78/MLOPSPRACTICE "HTTP/1.1 200 OK"
+[ 2024-12-01 21:48:51,115 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-01 21:48:51,117 ] 107 INFO Initialized MLflow to track repo "mshivakumarreddy78/MLOPSPRACTICE"
+[ 2024-12-01 21:48:51,117 ] 107 INFO Repository mshivakumarreddy78/MLOPSPRACTICE initialized!

@@ -1,0 +1,10 @@
+[ 2024-12-03 18:15:52,176 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-03 18:15:52,191 ] 107 INFO Accessing as mshivakumarreddy78
+[ 2024-12-03 18:15:52,833 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/repos/mshivakumarreddy78/MLOPSPRACTICE "HTTP/1.1 200 OK"
+[ 2024-12-03 18:15:53,474 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-03 18:15:53,474 ] 107 INFO Initialized MLflow to track repo "mshivakumarreddy78/MLOPSPRACTICE"
+[ 2024-12-03 18:15:53,474 ] 107 INFO Repository mshivakumarreddy78/MLOPSPRACTICE initialized!
+[ 2024-12-03 18:16:54,914 ] 32 INFO number of columns in schema file 2
+[ 2024-12-03 18:16:54,915 ] 33 INFO number of columns in dataframe 31
+[ 2024-12-03 18:16:54,915 ] 32 INFO number of columns in schema file 2
+[ 2024-12-03 18:16:54,915 ] 33 INFO number of columns in dataframe 31

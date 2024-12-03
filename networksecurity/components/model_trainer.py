@@ -24,6 +24,11 @@ from sklearn.ensemble import (
     RandomForestClassifier,
 )
 
+
+
+import dagshub
+dagshub.init(repo_owner='mshivakumarreddy78', repo_name='MLOPSPRACTICE', mlflow=True)
+
 class ModelTrainer:
     def __init__(self,model_training_config:ModelTrainerConfig,data_transformation_artifact:DataTaransformationArtifact):
         try:
@@ -33,7 +38,7 @@ class ModelTrainer:
             raise NetworkSecurityException(e,sys)
     
     def track_model(self,best_model,classificationmetric):
-        mlflow.set_tracking_uri('http://localhost:5000')
+        # mlflow.set_tracking_uri('http://localhost:5000')
         with mlflow.start_run():
             f1_score=classificationmetric.f1_score
             precision_score=classificationmetric.precision_score
