@@ -1,0 +1,3 @@
+[ 2024-12-04 22:47:56,718 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-04 22:47:56,726 ] 107 INFO Accessing as mshivakumarreddy78
+[ 2024-12-04 22:47:57,544 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/repos/mshivakumarreddy78/MLOPSPRACTICE "HTTP/1.1 200 OK"

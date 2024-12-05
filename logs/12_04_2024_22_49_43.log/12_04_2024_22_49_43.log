@@ -1,0 +1,15 @@
+[ 2024-12-04 22:49:46,211 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-04 22:49:46,211 ] 107 INFO Accessing as mshivakumarreddy78
+[ 2024-12-04 22:49:46,980 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/repos/mshivakumarreddy78/MLOPSPRACTICE "HTTP/1.1 200 OK"
+[ 2024-12-04 22:49:47,623 ] 1038 INFO HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-04 22:49:47,623 ] 107 INFO Initialized MLflow to track repo "mshivakumarreddy78/MLOPSPRACTICE"
+[ 2024-12-04 22:49:47,623 ] 107 INFO Repository mshivakumarreddy78/MLOPSPRACTICE initialized!
+[ 2024-12-04 22:51:08,836 ] 32 INFO number of columns in schema file 2
+[ 2024-12-04 22:51:08,836 ] 33 INFO number of columns in dataframe 31
+[ 2024-12-04 22:51:08,836 ] 32 INFO number of columns in schema file 2
+[ 2024-12-04 22:51:08,836 ] 33 INFO number of columns in dataframe 31
+[ 2024-12-04 22:57:51,679 ] 32 INFO number of columns in schema file 2
+[ 2024-12-04 22:57:51,679 ] 33 INFO number of columns in dataframe 31
+[ 2024-12-04 22:57:51,679 ] 32 INFO number of columns in schema file 2
+[ 2024-12-04 22:57:51,679 ] 33 INFO number of columns in dataframe 31
+[ 2024-12-04 22:57:52,606 ] 870 WARNING Retrying (Retry(total=4, connect=5, read=4, redirect=5, status=5)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /mshivakumarreddy78/MLOPSPRACTICE.mlflow/api/2.0/mlflow/runs/create
